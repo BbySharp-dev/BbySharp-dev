@@ -38,5 +38,5 @@ Let’s connect and create something great together! 🚀
 ---
 
 📫 **How to reach me**:
-- [Email](mailto:doanminhtruong53@gmail.com)
+- [Email](mailto:doanminhtruong53.dev@gmail.com)
 
