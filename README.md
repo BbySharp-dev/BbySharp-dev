@@ -1,7 +1,6 @@
 <div align="center">
-  <h1>👋 Hi, I'm Doan Minh Truong!</h1>
-  <p><strong>Web Developer</strong> | Crafting solutions with <em>.NET, React, Next.js, NestJS</em> | Vietnam 🇻🇳</p>
-  <img src="https://github.com/images/mona-whisper.gif" alt="Mona Whisper" width="150" />
+  <h1>👋 Hi, I'm Doan Minh Truong! <img src="https://github.com/images/mona-whisper.gif" alt="Mona Whisper" width="50" style="vertical-align:middle; float:right; margin-left:10px;" /></h1>
+  <p><strong>Web Developer Intern</strong> | Crafting solutions with <em>.NET, React, Next.js, NestJS</em> | Vietnam 🇻🇳</p>
 </div>
 
 ---
@@ -23,6 +22,8 @@
 ## 📫 Let’s Connect!
 - ✉️ [doanminhtruong53.dev@gmail.com](mailto:doanminhtruong53.dev@gmail.com)  
 - 😄 **Pronouns**: He/Him  
+- ⚡ **Fun fact**: I once debugged a bug for 3 hours only to find out it was a missing semicolon!  
+
 <div align="center">
   <em>Let’s build something awesome together! 🚀</em>
 </div>
