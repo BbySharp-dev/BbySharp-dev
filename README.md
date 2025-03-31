@@ -23,8 +23,6 @@
 ## 📫 Let’s Connect!
 - ✉️ [doanminhtruong53.dev@gmail.com](mailto:doanminhtruong53.dev@gmail.com)  
 - 😄 **Pronouns**: He/Him  
-- ⚡ **Fun fact**: I kicked off my coding journey by building simple Python games!  
-
 <div align="center">
   <em>Let’s build something awesome together! 🚀</em>
 </div>
